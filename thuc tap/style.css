@@ -1,0 +1,73 @@
+h1 {
+    color: rgb(224, 161, 161);
+    text-align: center;
+    background-color: rgb(150, 241, 114);
+    width:100%;
+    font-family: cursive;
+    padding:7%;
+    background-image: url(images.jpg);
+
+}
+body{
+    
+    -webkit-background-size:cover;
+    background-size:cover;
+
+}
+.table-style{
+    color:rgb(23, 95, 9);
+    text-align:center;
+    font-family:bold;
+    border: blue;
+    text-size-adjust: 10px;
+    width: 2500px;
+    height: 1000px;
+    table-layout: fixed;
+    font-size: 50px;
+    border: rgb(153, 206, 55);
+    border-style: dotted;
+
+}
+.roviniemi{
+    box-align:top: 0;
+    text-align:center;
+}
+footer{
+    color:rgb(87, 87, 36);
+    background-color:rgb(192, 238, 207);
+    opacity: 0.35;
+}
+.travel-option{
+    text-align: center;
+}
+.labelfortravel{
+    display: block;
+    font-size: 23px;
+    background-color: rgb(194, 180, 164);
+    padding: 10px;
+    top: 80%;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top:20px;
+    line-height: 4px;
+    position: relative;
+    top:80%;
+    font-style:italic;
+
+}
+h3{
+    font-size: 50px;
+    color: blue;
+    background: padding-box;
+    text-align: center;
+    line-height: 50px;
+    background-color:gray;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 60px;
+}
+button{
+    width: 50;
+    height: 40;
+    text-align: center;
+}

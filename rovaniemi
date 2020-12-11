@@ -1,39 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <title></title>
-        
-    </head>
-    <header>
-        <h1>By Bus</h1>
-    </header>
-    <body>
-        <section>
-            <table border="2" class=table-style>
-                <tr>
-                    <th></th>
-                    <th><h2>Onni-Bus</h2></th>
-                    <th><embed src="matkahuolto.jpg"><h2>Matkahuolto</h2></th>
-                    <th><h2>V.Alamaki</h2></th>
-                </tr>
-                <tr>
-                    <td>Price</td>>
-                    <td>30e-50e</td>
-                    <td>35-60e</td>
-                    <td>40e-70e</td>
-                </tr>
-                <tr>
-                    <td>Duration</td>
-                    <td colspan="3">12hours</td>
 
-                </tr>
-                <tr>
-                    <td>Custommer review</td>
-                    <td>****</td>
-                    <td>***</td>
-                    <td>*****</td>
-                </tr>
-            </table>
-        </section>
-    </body>
+<html>
+ 
+<body>
+  <h1>YOUR NAME</h1>
+  <p>Welcome to my website!</p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
+ 
 </html>
